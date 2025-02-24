@@ -1,5 +1,5 @@
 {
-  "name": "api-debugger",
+  "name": "api-debugger-sheryar",
   "version": "1.0.0",
   "description": "Ab npm package to automatically logs incoming API requests, response times, and detects slow responses to help the developer",
   "main": "index.js",
